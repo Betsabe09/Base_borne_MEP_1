@@ -1,0 +1,134 @@
+Added Component: Designator=J1(1769463)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-smstb-25-2-g-508-1769463?type=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1769463"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(1769463)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-smstb-25-2-g-508-1769463?type=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1769463"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(1769463)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-smstb-25-2-g-508-1769463?type=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1769463"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(61203421621)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61203421621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(1769544)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-smstb-2510-g-508-1769544?type=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1769544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1769544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1769544?qs=Ul7CXFMnlWULFMNjwB5rhQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J8(1769544)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-smstb-2510-g-508-1769544?type=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1769544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1769544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1769544?qs=Ul7CXFMnlWULFMNjwB5rhQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J9(1769502)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.phoenixcontact.com/en-us/products/pcb-header-smstb-25-6-g-508-1769502?type=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1769502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1769502"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1769502?qs=uJX40y%252BSWqhWXzYacBQ8LA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24 Pin=J1-1
+Added Pin To Net: NetName=+24 Pin=J2-1
+Added Pin To Net: NetName=+24 Pin=J3-1
+Added Pin To Net: NetName=+24 Pin=J9-2
+Added Net: Name=+24
+Added Pin To Net: NetName=24V-A Pin=J6-1
+Added Pin To Net: NetName=24V-A Pin=J8-7
+Added Net: Name=24V-A
+Added Pin To Net: NetName=24V-B Pin=J6-2
+Added Pin To Net: NetName=24V-B Pin=J6-13
+Added Pin To Net: NetName=24V-B Pin=J8-5
+Added Net: Name=24V-B
+Added Pin To Net: NetName=24V-UI Pin=J6-3
+Added Pin To Net: NetName=24V-UI Pin=J7-1
+Added Pin To Net: NetName=24V-UI Pin=J7-3
+Added Pin To Net: NetName=24V-UI Pin=J7-5
+Added Pin To Net: NetName=24V-UI Pin=J7-7
+Added Pin To Net: NetName=24V-UI Pin=J7-9
+Added Pin To Net: NetName=24V-UI Pin=J8-1
+Added Pin To Net: NetName=24V-UI Pin=J8-3
+Added Net: Name=24V-UI
+Added Pin To Net: NetName=AUX Pin=J6-14
+Added Pin To Net: NetName=AUX Pin=J8-4
+Added Net: Name=AUX
+Added Pin To Net: NetName=EVC Pin=J6-4
+Added Pin To Net: NetName=EVC Pin=J8-9
+Added Net: Name=EVC
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=GND Pin=J6-23
+Added Pin To Net: NetName=GND Pin=J6-24
+Added Pin To Net: NetName=GND Pin=J8-10
+Added Pin To Net: NetName=GND Pin=J9-3
+Added Pin To Net: NetName=GND Pin=J9-6
+Added Net: Name=GND
+Added Pin To Net: NetName=PSH Pin=J6-22
+Added Pin To Net: NetName=PSH Pin=J7-2
+Added Net: Name=PSH
+Added Pin To Net: NetName=PSL Pin=J6-17
+Added Pin To Net: NetName=PSL Pin=J7-4
+Added Net: Name=PSL
+Added Pin To Net: NetName=PTA Pin=J6-11
+Added Pin To Net: NetName=PTA Pin=J8-8
+Added Net: Name=PTA
+Added Pin To Net: NetName=PTB Pin=J6-12
+Added Pin To Net: NetName=PTB Pin=J8-6
+Added Net: Name=PTB
+Added Pin To Net: NetName=RS485-A Pin=J6-26
+Added Pin To Net: NetName=RS485-A Pin=J9-4
+Added Net: Name=RS485-A
+Added Pin To Net: NetName=RS485-B Pin=J6-28
+Added Pin To Net: NetName=RS485-B Pin=J9-5
+Added Net: Name=RS485-B
+Added Pin To Net: NetName=SMM Pin=J6-21
+Added Pin To Net: NetName=SMM Pin=J7-6
+Added Net: Name=SMM
+Added Pin To Net: NetName=SMP Pin=J6-20
+Added Pin To Net: NetName=SMP Pin=J7-8
+Added Net: Name=SMP
+Added Pin To Net: NetName=WKUP Pin=J6-5
+Added Pin To Net: NetName=WKUP Pin=J9-1
+Added Net: Name=WKUP
+Added Pin To Net: NetName=ZSA Pin=J6-19
+Added Pin To Net: NetName=ZSA Pin=J7-10
+Added Net: Name=ZSA
+Added Pin To Net: NetName=ZSC Pin=J6-18
+Added Pin To Net: NetName=ZSC Pin=J8-2
+Added Net: Name=ZSC
+Added Class: Name=Base_borne_conn
+Added Room: Name=Base_borne_conn

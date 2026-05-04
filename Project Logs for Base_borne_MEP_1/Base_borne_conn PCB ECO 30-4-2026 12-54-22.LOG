@@ -1,0 +1,75 @@
+Add component: Footprint Not Found 1769463
+Add component: Footprint Not Found 1769463
+Add component: Footprint Not Found 1769463
+Added Component: Designator=J6(61203421621)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61203421621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found 1769544
+Add component: Footprint Not Found 1769544
+Add component: Footprint Not Found 1769502
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Added Pin To Net: NetName=24V-A Pin=J6-1
+Added Pin To Net: NetName=24V-B Pin=J6-2
+Added Pin To Net: NetName=24V-UI Pin=J6-3
+Added Pin To Net: NetName=EVC Pin=J6-4
+Added Pin To Net: NetName=WKUP Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=PTA Pin=J6-11
+Added Pin To Net: NetName=PTB Pin=J6-12
+Added Pin To Net: NetName=24V-B Pin=J6-13
+Added Pin To Net: NetName=AUX Pin=J6-14
+Added Pin To Net: NetName=PSL Pin=J6-17
+Added Pin To Net: NetName=ZSC Pin=J6-18
+Added Pin To Net: NetName=ZSA Pin=J6-19
+Added Pin To Net: NetName=SMP Pin=J6-20
+Added Pin To Net: NetName=SMM Pin=J6-21
+Added Pin To Net: NetName=PSH Pin=J6-22
+Added Pin To Net: NetName=GND Pin=J6-23
+Added Pin To Net: NetName=GND Pin=J6-24
+Added Pin To Net: NetName=RS485-A Pin=J6-26
+Added Pin To Net: NetName=RS485-B Pin=J6-28
+Add Pin To Net: Unknown Pin: Pin J7-1
+Add Pin To Net: Unknown Pin: Pin J7-2
+Add Pin To Net: Unknown Pin: Pin J7-3
+Add Pin To Net: Unknown Pin: Pin J7-4
+Add Pin To Net: Unknown Pin: Pin J7-5
+Add Pin To Net: Unknown Pin: Pin J7-6
+Add Pin To Net: Unknown Pin: Pin J7-7
+Add Pin To Net: Unknown Pin: Pin J7-8
+Add Pin To Net: Unknown Pin: Pin J7-9
+Add Pin To Net: Unknown Pin: Pin J7-10
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J8-7
+Add Pin To Net: Unknown Pin: Pin J8-8
+Add Pin To Net: Unknown Pin: Pin J8-9
+Add Pin To Net: Unknown Pin: Pin J8-10
+Add Pin To Net: Unknown Pin: Pin J9-1
+Add Pin To Net: Unknown Pin: Pin J9-2
+Add Pin To Net: Unknown Pin: Pin J9-3
+Add Pin To Net: Unknown Pin: Pin J9-4
+Add Pin To Net: Unknown Pin: Pin J9-5
+Add Pin To Net: Unknown Pin: Pin J9-6
+Add Class Member: Failed to add class member : Component J1 BAT
+Add Class Member: Failed to add class member : Component J2 MODEM
+Add Class Member: Failed to add class member : Component J3 MEP
+Added Member To Class: ClassName=Base_borne_conn Member=Component J6
+Add Class Member: Failed to add class member : Component J7
+Add Class Member: Failed to add class member : Component J8
+Add Class Member: Failed to add class member : Component J9
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

@@ -1,0 +1,33 @@
+Add component: Footprint Not Found 1769463
+Add component: Footprint Not Found 1769463
+Add component: Footprint Not Found 1769463
+Added Component: Designator=J6(61203421621)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61203421621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found 1769544
+Add component: Footprint Not Found 1769544
+Add component: Footprint Not Found 1769502
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Added Pin To Net: NetName=GND Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=GND Pin=J6-23
+Added Pin To Net: NetName=GND Pin=J6-24
+Add Pin To Net: Unknown Pin: Pin J9-2
+Add Pin To Net: Unknown Pin: Pin J9-3
+Add Pin To Net: Unknown Pin: Pin J9-6
+Add Class Member: Failed to add class member : Component J1 BAT
+Add Class Member: Failed to add class member : Component J2 MODEM
+Add Class Member: Failed to add class member : Component J3 MEP
+Added Member To Class: ClassName=Base_borne_conn Member=Component J6
+Add Class Member: Failed to add class member : Component J7
+Add Class Member: Failed to add class member : Component J8
+Add Class Member: Failed to add class member : Component J9

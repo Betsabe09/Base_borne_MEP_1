@@ -16,7 +16,7 @@ AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
-DefaultConfiguration=Sources
+DefaultConfiguration=Default - All Constraints
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
@@ -24,21 +24,21 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
-AutoCrossReferences=0
+AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-IsProjectConflictPreventionWarningsEnabled=1
+IsProjectConflictPreventionWarningsEnabled=0
 ConstraintManagerFlow=0
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
+CrossRefSheetStyle=2
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -50,24 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Base_borne_conn.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PRZQEFWN
-
-[Document2]
-DocumentPath=Base_borne_conn.PcbDoc
+DocumentPath=..\Base_borne_MEP_11\Base_borne_conn.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -77,14 +60,31 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TNWXDLGT
+DocumentUniqueId=NKXHMHOU
+
+[Document2]
+DocumentPath=..\Base_borne_MEP_11\Base_borne_MEP_1.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=STAVQUZR
 
 [Document3]
-DocumentPath=Librerias\Project Outputs for Base_borne_MEP_1\Base_borne_MEP_1.IntLib
+DocumentPath=..\Base_borne_MEP_11\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,15 +100,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Configuration1]
-Name=Sources
-ParameterCount=0
-ConstraintFileCount=0
-ReleaseItemId=
-Variant=[No Variations]
-OutputJobsCount=0
-ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
-ConfigurationType=Source
+[SearchPath1]
+Path=A:\Sech\Proyectos de git\Base_borne_MEP_1\Base_borne_MEP_11\*.*
+IncludeSubFolders=1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -235,7 +229,7 @@ OutputDefault1=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -243,74 +237,74 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=PCB 3D Print
-OutputName2=PCB 3D Print
+OutputType2=Harness Layout Drawing Print
+OutputName2=Harness Layout Drawing Prints
 OutputDocumentPath2=
-OutputVariantName2=[No Variations]
+OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=PCB 3D Video
-OutputName3=PCB 3D Video
+OutputType3=Harness Wiring Diagram Print
+OutputName3=Harness Wiring Diagram Prints
 OutputDocumentPath3=
-OutputVariantName3=[No Variations]
+OutputVariantName3=
 OutputDefault3=0
 PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=PCB Print
-OutputName4=PCB Prints
+OutputType4=PCB 3D Print
+OutputName4=PCB 3D Print
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=PCBDrawing
-OutputName5=Draftsman
+OutputType5=PCB 3D Video
+OutputName5=PCB 3D Video
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=PCBLIB Print
-OutputName6=PCBLIB Prints
+OutputType6=PCB Print
+OutputName6=PCB Prints
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=PDF3D
-OutputName7=PDF3D
+OutputType7=PCBDrawing
+OutputName7=Draftsman
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=PDF3D MBA
-OutputName8=PDF3D MBA
+OutputType8=PCBLIB Print
+OutputName8=PCBLIB Prints
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Report Print
-OutputName9=Report Prints
+OutputType9=PDF3D
+OutputName9=PDF3D
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Schematic Print
-OutputName10=Schematic Prints
+OutputType10=PDF3D MBA
+OutputName10=PDF3D MBA
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=SimView Print
-OutputName11=SimView Prints
+OutputType11=Report Print
+OutputName11=Report Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Harness Layout Drawing Print
-OutputName12=Harness Layout Drawing Prints
+OutputType12=Schematic Print
+OutputName12=Schematic Prints
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
 PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Harness Wiring Diagram Print
-OutputName13=Harness Wiring Diagram Prints
+OutputType13=SimView Print
+OutputName13=SimView Prints
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
@@ -426,54 +420,54 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=ComponentCrossReference
-OutputName2=Component Cross Reference Report
+OutputType2=BOM_ReportCompare
+OutputName2=BOM Compare
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=ReportHierarchy
-OutputName3=Report Project Hierarchy
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=BOM_ReportManufacturing
+OutputName3=Manufacturing Data
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Script
-OutputName4=Script Output
+OutputType4=ComponentCrossReference
+OutputName4=Component Cross Reference Report
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=SimpleBOM
-OutputName5=Simple BOM
+OutputType5=Export Comments
+OutputName5=Export Comments
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=SinglePinNetReporter
-OutputName6=Report Single Pin Nets
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Project History
+OutputName6=Project History
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=BOM_ReportCompare
-OutputName7=BOM Compare
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=ReportHierarchy
+OutputName7=Report Project Hierarchy
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=BOM_ReportManufacturing
-OutputName8=Manufacturing Data
+OutputType8=Script
+OutputName8=Script Output
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
-OutputType9=Export Comments
-OutputName9=Export Comments
+OutputType9=SimpleBOM
+OutputName9=Simple BOM
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Project History
-OutputName10=Project History
+OutputType10=SinglePinNetReporter
+OutputName10=Report Single Pin Nets
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup7]
 Name=Other Outputs
@@ -873,8 +867,8 @@ Type8=1
 Type9=1
 Type10=1
 Type11=2
-Type12=0
-Type13=0
+Type12=2
+Type13=2
 Type14=1
 Type15=1
 Type16=1
@@ -930,7 +924,7 @@ Type65=2
 Type66=3
 Type67=2
 Type68=2
-Type69=2
+Type69=0
 Type70=2
 Type71=2
 Type72=2
@@ -1094,13 +1088,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
-
-[SmartPDF]
-PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Base_borne_MEP_1.PrjPcb]
+   Generated File[Base_borne_conn-RoundHoles.TXT]
+   Generated File[Base_borne_conn-SlotHoles.TXT]
+   Generated File[Base_borne_conn.LDP]
+   Generated File[Base_borne_conn.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 09:39:06 On 7/5/2026

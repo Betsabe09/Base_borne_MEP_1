@@ -1,13 +1,26 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Base_borne_MEP_1.PrjPcb]
-   Generated File[Base_borne_conn-RoundHoles.TXT]
-   Generated File[Base_borne_conn-SlotHoles.TXT]
-   Generated File[Base_borne_conn.LDP]
-   Generated File[Base_borne_conn.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Base_borne_MEP_1.PrjPcb]
+   Generated File[Base_borne_conn.GTO]
+   Generated File[Base_borne_conn.GTP]
+   Generated File[Base_borne_conn.GTS]
+   Generated File[Base_borne_conn.GTL]
+   Generated File[Base_borne_conn.GBL]
+   Generated File[Base_borne_conn.GBS]
+   Generated File[Base_borne_conn.GBP]
+   Generated File[Base_borne_conn.GBO]
+   Generated File[Base_borne_conn.GM1]
+   Generated File[Base_borne_conn.GM13]
+   Generated File[Base_borne_conn.GM15]
+   Generated File[Base_borne_conn.GKO]
+   Generated File[Base_borne_conn.GPT]
+   Generated File[Base_borne_conn.GPB]
+   Generated File[Base_borne_conn.RUL]
+   Generated File[Base_borne_conn.EXTREP]
+   Generated File[Base_borne_conn.REP]
 
 
-Files Generated   : 4
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 09:39:06 On 7/5/2026
+Finished Output Generation At 20:40:22 On 7/5/2026

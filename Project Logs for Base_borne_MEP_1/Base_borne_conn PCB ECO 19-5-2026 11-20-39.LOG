@@ -1,0 +1,5 @@
+Change Component Comment : Designator=J5 Old Comment=MEP New Comment=MEP-ALIM
+Change Component Comment : Designator=J4 Old Comment=MODEM New Comment=MODEM-ALIM
+Change Net Name : Old Net Name=RS485-A New Net Name=RS485-B
+Change Net Name : Old Net Name=RS485-B New Net Name=RS485-A
+Added Member To Class: ClassName=Base_borne_conn Member=Component J1 6120XX21621_61203421621
